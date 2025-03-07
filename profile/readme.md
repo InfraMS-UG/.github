@@ -31,21 +31,6 @@
    ```bash
    make deploy && toast "Another win for InfraMS! 🥂"
    ```
-
----
-
-## 🛠️ **Contribution Rules**  
-```diff
-+ DO: 
-- Branch names: `feat/your-idea`, `fix/issue-123`
-- PR Templates: Use #issue tags + @mention leads
-- Code Style: Prettier + ESLint (configs in /docs)
-
-- DON’T: 
-- Push to `main` — that’s what PRs are for! 🔥
-- Forget tests. Seriously. Don’t.
-```
-
 ---
 
 ## 🔒 **License**  
