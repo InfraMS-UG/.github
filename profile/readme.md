@@ -18,20 +18,6 @@
 
 ---
 
-## 🚀 **Why GitHub Enterprise?**  
-We’re leveraging GitHub Enterprise to fuel:  
-<div align="center">
-  <img src="https://img.shields.io/badge/Security-NSA_Approved-blue?style=for-the-badge&logo=github" /> 
-  <img src="https://img.shields.io/badge/Collaboration-Quantum_Sync-green?style=for-the-badge&logo=github" />
-</div>
-
-- **🔐 Fortress-Level Security**: Private repos, granular permissions, and SOC2 compliance.  
-- **🤖 CI/CD Hyperdrive**: Automate everything — testing, deployment, even coffee runs (WIP).  
-- **🌍 Global Scalability**: Manage 100+ repos? Easy. Terraform + GitHub Actions = 😍.  
-- **🧩 Unified Toolchain**: Jira, Slack, and InfraMS’s secret sauce — all integrated.  
-
----
-
 ## ⚡ **Quickstart**  
 1. **Clone a repo**:  
    ```bash
