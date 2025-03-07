@@ -18,21 +18,6 @@
 
 ---
 
-## ⚡ **Quickstart**  
-1. **Clone a repo**:  
-   ```bash
-   git clone https://github.enterprise.inframs.de/your-project.git
-   ```
-2. **Authenticate** with your InfraMS credentials:  
-   ```bash
-   gh auth login --hostname github.enterprise.inframs.de
-   ```
-3. **Deploy with pride**:  
-   ```bash
-   make deploy && toast "Another win for InfraMS! 🥂"
-   ```
----
-
 ## 🔒 **License**  
 ```rust
 // All code here is the intellectual property of InfraMS.
