@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Company Logo -->
-  <img src="https://cdn.inframs.de/LogoTextWhite.svg" alt="InfraMS Logo" width="300" />
+  <img src="https://cdn.inframs.de/inframs/design/logos/LogoTextWhite.svg" alt="InfraMS Logo" width="300" />
 </div>
 
 <div align="center">
